@@ -1,6 +1,13 @@
 #################
+## IntelliJ
+#################
+.target
+/target
+
+#################
 ## Eclipse
 #################
+
 
 *.pydevproject
 .project
